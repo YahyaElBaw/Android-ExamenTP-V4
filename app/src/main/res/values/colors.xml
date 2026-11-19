@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E293B</color> <!-- Slate 800 - Pro look -->
+    <color name="primary_dark">#0F172A</color>
+    <color name="color_accent">#3B82F6</color>
+    <color name="call_green">#10B981</color>
+    <color name="email_blue">#0284C7</color>
+    <color name="delete_red">#DC2626</color>
+    <color name="map_orange">#F59E0B</color>
+    <color name="background_light">#F8FAFC</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+</resources>

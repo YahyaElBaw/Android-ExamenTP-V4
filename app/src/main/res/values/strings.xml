@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Contacts V4 (Examen)</string>
+    <string name="titre_contacts">Mes contacts (SQLite)</string>
+    <string name="hint_recherche">Rechercher un contact...</string>
+    <string name="aucun_contact">Aucun contact trouvé dans la base</string>
+    <string name="titre_detail">Détail du contact</string>
+    <string name="titre_creation">Nouveau contact</string>
+    <string name="titre_carte">Carte du contact</string>
+    <string name="titre_parametres">Paramètres</string>
+
+    <string name="label_nom">Nom *</string>
+    <string name="label_prenom">Prénom *</string>
+    <string name="label_telephone">Téléphone *</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_latitude">Latitude (-90 à 90)</string>
+    <string name="label_longitude">Longitude (-180 à 180)</string>
+
+    <string name="btn_carte">Voir sur la carte</string>
+    <string name="btn_appeler">Appeler</string>
+    <string name="btn_email">E-mail</string>
+    <string name="btn_choisir_photo">Choisir une photo</string>
+    <string name="btn_prendre_photo">Prendre une photo</string>
+    <string name="btn_enregistrer">Enregistrer</string>
+    <string name="btn_supprimer">Supprimer</string>
+    <string name="btn_annuler">Annuler</string>
+
+    <string name="dialog_suppression_titre">Confirmer la suppression</string>
+    <string name="dialog_suppression_msg">Voulez-vous vraiment supprimer définitivement ce contact de la base SQLite ?</string>
+    <string name="dialog_oui">Supprimer</string>
+    <string name="dialog_non">Annuler</string>
+
+    <string name="erreur_champs_obligatoires">Le nom, le prénom et le téléphone sont obligatoires</string>
+    <string name="erreur_coordonnees_invalides">Coordonnées invalides : Lat [-90, 90], Lon [-180, 180]</string>
+    <string name="erreur_coordonnees_absentes">Ce contact ne possède aucune coordonnée GPS enregistrée</string>
+    <string name="msg_contact_enregistre">Contact enregistré dans SQLite</string>
+    <string name="msg_contact_supprime">Contact supprimé de la base SQLite</string>
+    <string name="msg_app_non_disponible">Aucune application compatible</string>
+</resources>
